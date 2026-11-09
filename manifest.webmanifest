@@ -1,18 +1,19 @@
 {
   "name": "STRYDE \u2014 Performance & Lifestyle",
   "short_name": "STRYDE",
-  "start_url": "/",
+ "start_url": "/stryde/",
+"scope": "/stryde/",
   "display": "standalone",
   "background_color": "#080e1a",
   "theme_color": "#080e1a",
   "icons": [
     {
-      "src": "icon-192-v84.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512-v84.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
